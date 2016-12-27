@@ -30,17 +30,11 @@ https://www.youtube.com/watch?v=8VxCWVoZEEE
 
 Please visit https://github.com/LionSec/wifresti/issues
 
-#Donate
-- Paypal : informatica98es@gmail.com
-- skrill : informatica98es@gmail.com
-
 
 #Contact
 
-- Website : http://lionsec.net
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : ledonman@gmail.com
+- Website : www.koushiksuthard.wordpress.com
+- Facebook : https://facebook.com/koushik.suthar1
+- Email : kdhacker1995@gmail.com
 
 
