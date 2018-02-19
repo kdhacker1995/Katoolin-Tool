@@ -33,8 +33,6 @@ Please visit https://github.com/LionSec/wifresti/issues
 
 #Contact
 
-- Website : www.koushiksuthard.wordpress.com
-- Facebook : https://facebook.com/koushik.suthar1
 - Email : kdhacker1995@gmail.com
 
 
